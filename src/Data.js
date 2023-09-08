@@ -5,12 +5,12 @@ export const usersList = [
     id: 1,
   },
   {
-    name: "aswin",
+    name: "abcd",
     email: ".com",
     id: 2,
   },
   {
-    name: "aswin",
+    name: "efgh",
     email: ".com",
     id: 3,
   },
